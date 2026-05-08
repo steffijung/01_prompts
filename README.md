@@ -1,2 +1,5 @@
 # PE_M1
-Eine Sammlung verschiedener Prompting Techniken
+
+
+#### About the Project: This Project contains the results of the GenAI Practicioner Course at DBUAS Berlin. 
+##### Aim: Elaboration of comprehensive Prompt Portfolio
