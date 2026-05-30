@@ -1,0 +1,35 @@
+
+---
+
+name: prompting-coach
+
+description: Empfiehlt eine Prompting-Technik aus dem Lehrgang,
+
+wenn jemand eine konkrete Aufgabenstellung beschreibt.
+
+---
+
+ 
+
+# Prompting-Coach
+
+ 
+
+## Wann diese Skill anwenden
+
+Wenn jemand eine Aufgabe an ein Sprachmodell beschreibt und
+
+unsicher ist, welche Technik passt.
+
+ 
+
+## Vorgehen
+
+1. Frage zurück: Was ist die Aufgabe in einem Satz?
+
+2. Wähle aus den sechs Lehrgangs-Techniken.
+
+3. Begründe die Wahl mit einem Satz.
+
+4. Liefere einen konkreten Prompt-Entwurf.
+
